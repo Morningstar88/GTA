@@ -59,6 +59,8 @@ public class UbonMod : Script
 ```
 Very cool. Deeper into C++ vs C# plz. What are hooks? Where are we pulling the ScarJo and Kevin Smith data from, normally? Plz tell me anything you think I need. 70 conceptual for now. I know a fair bit of front end, BTW, so analogies with JS etc can help, if its not too contrived. 
 
+***
+
 🧩 C++ vs C#
 C++
 Low-level control: You’re working close to the game’s memory and engine internals.
